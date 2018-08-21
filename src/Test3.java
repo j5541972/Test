@@ -1,3 +1,3 @@
 public class Test3 {
-  String name ="wgt";
+  String name ="wg1t";
 }
