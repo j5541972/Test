@@ -11,3 +11,6 @@ buildConfigField("String", "MAUTH_SERVER_ADDRESS", "\"https://qualityassurance-a
 
 <string name="entity_url">https://netmobile:MobP8w@www.hkg1vl0077.p2g.netd2.hsbc.com.hk/mobile/GBB/2019R4/SIT/entitylist-GBB.xml</string>
     <string name="checksum_url">https://netmobile:MobP8w@www.hkg1vl0077.p2g.netd2.hsbc.com.hk/mobile/GBB/2019R4/SIT/checksum-GBB.xml</string>
+
+
+https://blog.csdn.net/weixin_40804043/article/details/86744096
